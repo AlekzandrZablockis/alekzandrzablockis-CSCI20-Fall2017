@@ -21,9 +21,8 @@
      cout << " Cents" << endl;
      
      
-     float total_change = customer_change - (customer_change * .109);
+     float total_change = customer_change - (customer_change * .109);                     //These floats are so we can print the end result as with decimal values
      float customer_change_float = customer_change;
-     //std::cout << std::fixed << std::setprecision(2) << total_change << std::endl;
      quarters = customer_change / 25;                                                   
      dimes = (customer_change % 25) / 10;                                                 //Determines the number of q, d , n , p 
      nickles = ((customer_change % 25) % 10) / 5;
@@ -33,7 +32,6 @@
      
      cout << "That was " << quarters << " Quarters, " << dimes << " Dimes, " << nickles << " Nickles and, " << pennies << " Pennies." << endl;          //Prints the number of q, d, n, p to the user
      cout << "The total is $" << customer_change_float / 100 << " After the fee you get $";
-     cout << setprecision(2) << fixed << total_change / 100;                          //Set precision lets us cut off the decimal point to the 100ths place so it can match US Currency
+     cout << setprecision(2) << fixed << total_change / 100;                                  //Set precision lets us cut off the decimal point to the 100ths place so it can match US Currency
      cout << " in cash";
- // Still need to push to github
 }
