@@ -32,12 +32,9 @@
     cin >> plural_noun;
     cout << endl;
     
-    /*cout << adjective_1<< endl;
-    cout << adjective_2 << endl;
-    cout << noun_1 << endl;
-    cout << noun_2 << endl;
-    cout << plural_noun << endl;
-                                */
+    
+    
+    
     cout << "The hood is a " << adjective_1 << " place." << endl;
     cout << "The residents are very " << adjective_2 << " but they manage to survive." << endl;        // This is the Madlib outputted with the users inputs being played.
     cout << "They are plauged by the " << noun_1 << " and " << noun_2 << " Brothers." << endl;;
