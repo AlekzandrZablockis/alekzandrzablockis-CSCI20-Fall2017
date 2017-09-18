@@ -8,7 +8,7 @@
  
  int main()
   {
-     int customer_change = 0;                                                            //Change the customer puts in
+     int customer_change = 0;                                                         //Change the customer puts in
      int quarters = 0; 
      int dimes = 0;
      int nickles = 0;                                                                    // Place holders so we can determine the change based on the customers input      
