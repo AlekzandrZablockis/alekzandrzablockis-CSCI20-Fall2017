@@ -1,6 +1,7 @@
 // Alekzandr Zablockis
 // 10/15/2017
-// 
+// Create a book class that holds all meta data of a book. Implement set functions, get functions and print functions in your class.
+// Write a program that uses book classes to store data for 5 book objects and ask the user for input for each. After all the data is entered print the result to the user.
 
          #include <iostream>
          #include <string>
@@ -163,3 +164,42 @@ This functions outputs are the user inputs for each part of the object I.e title
             cout << endl;
 
 }
+
+/*
+Test
+
+Enter the book title: Book1
+Enter the author name: Author1
+Enter the copyright year: 1
+Enter the book title: Book2
+Enter the author name: Author2
+Enter the copyright year: 2
+Enter the book title: Book3
+Enter the author name: Autor3
+Enter the copyright year: 3
+Enter the book title: Book4
+Enter the author name: Author4
+Enter the copyright year: 4
+Enter the book title: Book5
+Enter the author name: Author5
+Enter the copyright year: 5
+Title of Book: Book1
+Author of Book: Author1
+Copyright Year: 1
+
+Title of Book: Book2
+Author of Book: Author2
+Copyright Year: 2
+
+Title of Book: Book3
+Author of Book: Autor3
+Copyright Year: 3
+
+Title of Book: Book4
+Author of Book: Author4
+Copyright Year: 4
+
+Title of Book: Book5
+Author of Book: Author5
+Copyright Year: 5
+*/
