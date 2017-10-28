@@ -169,6 +169,8 @@ Total Gross Adjusted Income: 88229
 Total Tax Owed: 5739
 Bridget_Rowe is entitled to a REFUND of 0$
 
-
-
+Name: Wendy_Joseph
+Total Gross Adjusted Income: 73291
+Total Tax Owed: 3089.15
+Wendy_Joseph is entitled to a REFUND of 0$
 */
