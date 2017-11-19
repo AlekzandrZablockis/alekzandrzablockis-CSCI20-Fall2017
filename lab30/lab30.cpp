@@ -859,4 +859,165 @@ Process exited with code: 0
 
 OUTPUT TWO: THE LOSS
 
+It is your turn!
+Your tree has 10 cherries on it.
+Your basket has 0 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto the take one cherry spot! You take one Cherry!
+
+It is the computers turn!
+The computers tree has 10 cherries on it.
+The computers basket has 0 cherries in it.
+The computer spun onto the take one cherry spot! The computer takes one Cherry!
+
+It is your turn!
+Your tree has 9 cherries on it.
+Your basket has 1 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto to the bird spot! You lose one cherry!
+
+It is the computers turn!
+The computers tree has 9 cherries on it.
+The computers basket has 1 cherries in it.
+The computer spun onto the take three cherry spot! The computer takes three Cherries!
+
+It is your turn!
+Your tree has 10 cherries on it.
+Your basket has 0 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto the take 4 cherry spot! You take four Cherries!
+
+It is the computers turn!
+The computers tree has 6 cherries on it.
+The computers basket has 4 cherries in it.
+The computer spun onto to the bird spot! The computer loses two cherries!
+
+It is your turn!
+Your tree has 9 cherries on it.
+Your basket has 1 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto the take three cherry spot! You take three Cherries!
+
+It is the computers turn!
+The computers tree has 8 cherries on it.
+The computers basket has 2 cherries in it.
+The computer spun onto the take two cherry spot! The computer takes two Cherries!
+
+It is your turn!
+Your tree has 6 cherries on it.
+Your basket has 4 cherries in it.
+
+Enter S to spin the spinner
+s
+
+Oops! You spilt all of your cherries!
+
+It is the computers turn!
+The computers tree has 6 cherries on it.
+The computers basket has 4 cherries in it.
+The computer spun onto the take 4 cherry spot! The computer takes four Cherries!
+
+It is your turn!
+Your tree has 10 cherries on it.
+Your basket has 0 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto the take two cherry spot! You take two Cherries!
+
+It is the computers turn!
+The computers tree has 5 cherries on it.
+The computers basket has 5 cherries in it.
+The computer spun onto the take 4 cherry spot! The computer takes four Cherries!
+
+It is your turn!
+Your tree has 8 cherries on it.
+Your basket has 2 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto the take one cherry spot! You take one Cherry!
+
+It is the computers turn!
+The computers tree has 4 cherries on it.
+The computers basket has 6 cherries in it.
+The computer spun onto the take one cherry spot! The computer takes one Cherry!
+
+It is your turn!
+Your tree has 7 cherries on it.
+Your basket has 3 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto to the dog spot! You lose two cherries!
+
+It is the computers turn!
+The computers tree has 3 cherries on it.
+The computers basket has 7 cherries in it.
+The computer spun onto to the dog spot! The computer loses two cherries!
+
+It is your turn!
+Your tree has 9 cherries on it.
+Your basket has 1 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto to the dog spot! You lose on cherry!
+
+It is the computers turn!
+The computers tree has 5 cherries on it.
+The computers basket has 5 cherries in it.
+The computer spun onto the take three cherry spot! The computer takes three Cherries!
+
+It is your turn!
+Your tree has 10 cherries on it.
+Your basket has 0 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto the dog spot but you have no cherries!
+
+It is the computers turn!
+The computers tree has 2 cherries on it.
+The computers basket has 8 cherries in it.
+The computer spun onto the take 4 cherry spot! The computer takes four Cherries!
+
+It is your turn!
+Your tree has 10 cherries on it.
+Your basket has 0 cherries in it.
+
+Enter S to spin the spinner
+s
+
+You spun onto the dog spot but you have no cherries!
+
+It is the computers turn!
+The computers tree has 1 cherries on it.
+The computers basket has 9 cherries in it.
+The computer spun onto the take two cherry spot! The computer takes two Cherries!
+
+The computer has picked all of its cherries and won the game!
+u r rly bad get gud at teh game gg no re :3
+
+
+Process exited with code: 0
+
+OUTPUT 3: It is not possible to tie in this gmae
 */
