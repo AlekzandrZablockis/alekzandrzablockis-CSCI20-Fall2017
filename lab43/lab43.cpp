@@ -1,6 +1,7 @@
 // Alekzandr Zablockis
 // 11/18/17
-// Desc
+// This program will mimic an online shopping cart. It will keep track of inventory, price and the users shopping cart. It will have a class that holds the object names, price and inventories.
+// As the user purchases items it will remove 1 from that items iventory and add the price to the total. IT will never allow the inventory to go below 0.
 
 #include <iostream>
 #include <string>
@@ -197,3 +198,39 @@ int main ()
     cout << "Your total is " << ((item[0].total_ordered * item[0].price) + (item[1].total_ordered * item[1].price) + (item[2].total_ordered * item[2].price) + (item[3].total_ordered * item[3].price) + (item[4].total_ordered * item[4].price)) << "$" << endl; // Equation for total price of all items ordered
 
 }
+
+/*
+EXAMPLE
+Welcome to the Online Pet Store! Here are the pets we have avaible today!
+1. Dog
+2. Cat
+3. Bird
+4. Snake
+5. Rat
+To order an item please enter the item number. When done ordering please enter 0 to checkout.
+1
+1
+To order an item please enter the item number. When done ordering please enter 0 to checkout.
+2
+2
+To order an item please enter the item number. When done ordering please enter 0 to checkout.
+3
+3
+To order an item please enter the item number. When done ordering please enter 0 to checkout.
+4
+4
+To order an item please enter the item number. When done ordering please enter 0 to checkout.
+5
+5
+To order an item please enter the item number. When done ordering please enter 0 to checkout.
+0
+0
+You have ordered the following: 
+1 Dog for 500$
+1 Cat for 400$
+1 Bird for 250$
+1 Snake for 100$
+1 Rat for 50$
+Your total is 1300$
+
+*/
