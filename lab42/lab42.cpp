@@ -8,6 +8,9 @@
 #include <string>
 using namespace std;
 
+/*
+The purpsoe of this class is to have common shared variables for the parrall array
+*/
 class Dispensary
 {
     public:
@@ -17,7 +20,11 @@ class Dispensary
     double price[10] {30,40,40,50,50,30,60,45,50,55};
     int total_stock[10] {0,0,0,0,0,0,0,0,0,0}; // Amount ordered incorrect name
 };
-
+/*
+The purpose of this function is to output the amount of items the user ordered, how much each item costed and the total price of all items together
+The input for this function is the items ordered by the user
+The output is the items the user ordered, how much each item costed and the total price of the items.
+*/
 int Dispensary::Cart()
 {
     int amount_ordered_1 = (total_stock[0] * price[0]);
@@ -224,3 +231,52 @@ int main()
         }
     }
 }
+
+/*
+EXAMPLE
+
+Running /home/ubuntu/workspace/lab42/lab42.cpp
+Welcome to Online Californian Dispensary! This is our avaible stock!
+1. Gorilla Glue 30$ Per 1/8th
+2. Ak-47 40$ Per 1/8th
+3. Black Widow 40$ Per 1/8th
+4. Black Beauty 50$ Per 1/8th
+5. Black Cherry Soda 50$ Per 1/8th
+6. Pineapple 30$ Per 1/8th
+7. Blue Dream 60$ Per 1/8th
+8. Juicy Fruit 45$ Per 1/8th
+9. Strawberry Haze 50$ Per 1/8th
+10. WD-40 55$ Per 1/8th
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+1
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+5
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+6
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+7
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+7
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+4
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+4
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+3
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+3
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+3
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+3
+Please enter the product number to order an 1/8th. Enter 0 when ready to purchase.
+0
+You have ordered:
+1/8ths of Gorilla Glue
+4/8ths of Black Widow
+2/8ths of Black Beauty
+1/8ths of Black Cherry Soda
+1/8ths of Pineapple
+2/8ths of Blue Dream
+Total Price: 540$
+/*
