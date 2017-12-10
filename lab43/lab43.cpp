@@ -63,7 +63,6 @@ int main ()
     
     
     
-    
     ShoppingCart item[5];
     item[0].SetItem("Dog", 500, 5);
     item[1].SetItem("Cat", 400, 20);

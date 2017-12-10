@@ -1,0 +1,22 @@
+Character Name: Alekzandr Zablockis
+Race: Human
+Vision: Normal
+Class: Fighter
+Speed: 30ft
+
+
+Strength: 9 Mod: -1
+Dexterity: 12 Mod: 1
+Constitution: 14 Mod: 2
+Intelligence: 13 Mod: 1
+Wisdom: 7 Mod: -2
+Charisma: 14 Mod: 2
+
+
+HP: 12
+Fortitude: 16
+Reflexes: 12
+Will: 7
+AC: 11
+Touch AC: 11
+Flat_Footed_AC: 10
